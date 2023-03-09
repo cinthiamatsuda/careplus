@@ -1,7 +1,7 @@
-Fase 1 - Cap 9 - Ecossistema multimídia - Atividade 1 - Plataforma ESG
+<b>Fase 1 - Cap 9 - Ecossistema multimídia - Atividade 1 - Plataforma ESG</b>
 
-Integrantes do grupo
-Cinthia Elaine Matsuda
+<b>Integrantes do grupo</b><br>
+Cinthia Elaine Matsuda<br>
 Laryssa Gomes da Silva
 
 Plataforma ESG
@@ -9,6 +9,7 @@ Criamos a empresa Care+ (se pronuncia Care Plus), que tem como objetivo, ajudar 
 encontrarem profissionais da enfermagem e cuidadores. Indicado para qualquer adulto que possui
 alguma necessidade especial, para períodos mais prolongados ou até mesmo por algumas horas. O
 aplicativo conecta pessoas aos profissionais, para cuidados ainda no hospital e também na
-residência.
+residência.<br><br>
+
 Está disponível nas versões em Português (Brasil) e Inglês.
 

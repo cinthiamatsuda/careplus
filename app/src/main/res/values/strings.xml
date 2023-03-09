@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">care+</string>
+    <string name="edt_email">E-mail</string>
+    <string name="edt_senha">Password</string>
+    <string name="switch1">Remember me</string>
+    <string name="button">Login</string>
+    <string name="txv_esqueci">Forgot the password</string>
+    <string name="txv_cadastro">Your first time here?</string>
+    <string name="button2">Sign up</string>
+
+    <string name="txv_local">10020, New York - NY</string>
+    <string name="txv_slogan">Helping to take care who you love</string>
+    <string name="txv_opcao">What do you need?</string>
+    <string name="button3">Adult care in hospital</string>
+    <string name="button4">Elderly care in hospital</string>
+    <string name="button5">Adult home care</string>
+    <string name="button6">Elderly home care</string>
+    <string name="txv_busca">Search</string>
+    <string name="txv_agenda">Agenda</string>
+    <string name="txv_favoritos">Favorites</string>
+    <string name="txv_conta">Accont</string>
+
+</resources>

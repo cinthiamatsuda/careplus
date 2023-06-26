@@ -5,15 +5,14 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-
-class MainActivity2 : AppCompatActivity() {
+class MainActivity3 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main2)
-        val btnAdulto= findViewById<Button>(R.id.button3)
+        setContentView(R.layout.activity_main3)
+        val btnEspecialidade= findViewById<Button>(R.id.button4)
 
-        btnAdulto.setOnClickListener {
-            val i = Intent(this, MainActivity3::class.java)
+        btnEspecialidade.setOnClickListener {
+            val i = Intent(this, MainActivity4::class.java)
             startActivity(i)
         }
     }

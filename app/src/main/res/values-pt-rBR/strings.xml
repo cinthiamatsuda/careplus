@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">care+</string>
     <string name="edt_email">E-mail</string>
-    <string name="edt_senhal">Senha</string>
+    <string name="edt_senha">Senha</string>
     <string name="switch1">Lembrar de mim</string>
     <string name="button">Entrar</string>
     <string name="txv_esqueci">Esqueci a senha</string>
@@ -12,10 +12,14 @@
     <string name="txv_local">01311-000, São Paulo - SP</string>
     <string name="txv_slogan">Ajudando a cuidar de quem você ama</string>
     <string name="txv_opcao">O que você precisa?</string>
-    <string name="button3">Atendimento adulto em hospital</string>
-    <string name="button4">Atendimento idoso em hospital</string>
-    <string name="button5">Atendimento adulto domiciliar</string>
-    <string name="button6">Atendimento idoso domiciliar</string>
+    <string name="txv_especialidade">Especialidade</string>
+    <string name="button3">Atendimento adulto</string>
+    <string name="button4">Atendimento idoso</string>
+    <string name="button5">Atendimento criança</string>
+    <string name="button6">Atendimento gestante</string>
+    <string name="button7">Acompanhante</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="button8">Pós-cirúrgico</string>
     <string name="txv_busca">Buscar</string>
     <string name="txv_agenda">Agenda</string>
     <string name="txv_favoritos">Favoritos</string>

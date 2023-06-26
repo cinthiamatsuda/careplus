@@ -11,13 +11,17 @@
     <string name="txv_local">10020, New York - NY</string>
     <string name="txv_slogan">Helping to take care who you love</string>
     <string name="txv_opcao">What do you need?</string>
-    <string name="button3">Adult care in hospital</string>
-    <string name="button4">Elderly care in hospital</string>
-    <string name="button5">Adult home care</string>
-    <string name="button6">Elderly home care</string>
+    <string name="txv_especialidade">Specialty</string>
+    <string name="button3">Atendimento à adulto</string>
+    <string name="button4">Atendimento ao idoso</string>
+    <string name="button5">Atendimento à criança</string>
+    <string name="button6">Atendimento à gestante</string>
+    <string name="button7">Acompanhante</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="button8">Pós-cirúrgico</string>
     <string name="txv_busca">Search</string>
     <string name="txv_agenda">Agenda</string>
     <string name="txv_favoritos">Favorites</string>
-    <string name="txv_conta">Accont</string>
+    <string name="txv_conta">Account</string>
 
 </resources>

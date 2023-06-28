@@ -1,3 +1,15 @@
+<b>Fase 4 - Plataforma ESG</b>
+
+<b>Integrantes do grupo</b><br>
+Cinthia Elaine Matsuda<br>
+Laryssa Gomes da Silva
+
+<b>Plataforma ESG</b><br>
+Dando continuidade ao projeto ESG, foi desenvolvida as telas para busca de cuidadores especialistas em atendimento de adultos.<br><br>
+
+______________________________________________________________
+
+
 <b>Fase 1 - Cap 9 - Ecossistema multimídia - Atividade 1 - Plataforma ESG</b>
 
 <b>Integrantes do grupo</b><br>
